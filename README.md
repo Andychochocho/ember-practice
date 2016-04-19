@@ -1,7 +1,6 @@
 # Super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Users can create, read, update, and delete rentals with parameters that can also do the same. Firebase is used as a NO-SQL database in the backend to store data.
 
 ## Prerequisites
 
